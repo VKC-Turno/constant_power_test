@@ -1,0 +1,16 @@
+numpy
+pandas
+plotly
+plotly-express
+scikit-learn
+kaleido
+nbformat>=4.2.0
+openpyxl
+pillow
+matplotlib
+seaborn
+PyPDF2
+boto3
+pwlf
+scipy>=1.10.0
+streamlit
